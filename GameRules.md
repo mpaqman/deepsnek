@@ -1,6 +1,6 @@
 # Game Rules
 ## Ways to die
-Wall = death
+Wall = **death**
 
 Running out of food = **death** (food starts at 100 and goes down one per turn. Resets to 100 when food is eaten.
 
