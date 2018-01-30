@@ -11,3 +11,14 @@ All files are written in **markdown**. [Check out this markdown cheatsheet.](htt
   * Adversarial training
 * Research potential frameworks for training
 * Research how to run it as a server
+* Write a summary on all these companies (with bounty snakes) so that we know who we want to challenge (for job prospects)
+	* GitHub
+	* Sendwithus
+	* Rooof
+	* Workday
+	* AppColony
+	* Redbrick
+	* Giftbit
+	* Checkfront
+	* Bambora
+	* Accio
