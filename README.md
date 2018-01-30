@@ -1,7 +1,7 @@
 # Battlesnek for battlesnake.io 2018
 Here's where we keep notes and code and stuff we do for battlesnake.
 
-All files are written in **markdown**. [Check out this markdown cheatsheet.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+As you do research, take notes for the rest of the team to read. Send Merrick your github username to be give you editing persmission. All text files are written in **markdown**. [Check out this markdown cheatsheet.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### Reseach we need to do
 
