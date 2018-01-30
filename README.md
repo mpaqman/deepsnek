@@ -5,7 +5,7 @@ As you do research, take notes for the rest of the team to read. Send Merrick yo
 
 ### Reseach we need to do
 
-* Summarize game rules
+* ~~Summarize game rules~~
 * Research types of machine learning
   * Convolutional neural nets
   * Adversarial training
