@@ -10,3 +10,5 @@
 
 ## More info
 The full game rules are [available here](https://github.com/battle-snake/battle_snake/)
+
+**What is the grid size???**
