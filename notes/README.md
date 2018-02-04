@@ -1,5 +1,5 @@
 # Notes on learning and stuff we've learned
 
-[Intro to machine learning](notes/MachineLearningIntro.md)
+[Intro to machine learning](MachineLearningIntro.md)
 
-[TensorFlow vs PyTorch](notes/TensorFlowVsPyTorch.md)
+[TensorFlow vs PyTorch](TensorFlowVsPyTorch.md)
