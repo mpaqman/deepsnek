@@ -2,4 +2,4 @@
 
 [Intro to machine learning](notes/MachineLearningIntro.md)
 
-[TensorFlow vs PyTorch](notes/TensorFlow.md)
+[TensorFlow vs PyTorch](notes/TensorFlowVsPyTorch.md)
