@@ -10,3 +10,5 @@ Based off [this blog](https://towardsdatascience.com/pytorch-vs-tensorflow-spott
 | Facebook | Google |
 | In Beta | The current "standard" |
 | Update model on the fly (nice for dynamic inputs) | Define graph statically before running model |
+
+This is incomplete, read more from the above blog (I noted up to difference #1)
