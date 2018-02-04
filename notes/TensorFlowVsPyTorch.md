@@ -6,6 +6,7 @@ Based off [this blog](https://towardsdatascience.com/pytorch-vs-tensorflow-spott
 ## Differences
 
 |PyTorch|TensorFlow|
-| --- | --- |
+| :---: | :---: |
 | Facebook | Google |
 | In Beta | The current "standard" |
+| Update model on the fly (nice for dynamic inputs) | Define graph statically before running model |
