@@ -1,5 +1,10 @@
-# Notes on learning and stuff we've learned
+### ML resources
 
-[Intro to machine learning](FeedforwardNet.md)
+[Feedforward neural net](FeedforwardNet.md)
+
+### Architecture
 
 [TensorFlow vs PyTorch](TensorFlowVsPyTorch.md)
+
+### Snake stuff
+Our snake AI is, by defenition, a [Markov decision process](https://en.wikipedia.org/wiki/Markov_decision_process) with the 4 directions it can choose as action *a*, and the board state as *s*.
