@@ -1,3 +1,5 @@
+## We're using pytorch because it's more customizable
+
 Based off [this blog](https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b).
 
 ## Smilarities
